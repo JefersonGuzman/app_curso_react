@@ -1,0 +1,40 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bloqueProducto{
+    background-color: beige;
+    margin: 10px;
+    text-align:center;
+    width:300px;
+    padding:10px;
+}
+
+
+.mensaje{
+    background-color: rgb(209, 193, 68);
+    text-align: center;
+    color: azure;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.carrito>.bloqueProducto{
+    text-align: center;
+    margin-left: 11%;
+    background-color: rgb(7, 213, 151);
+    color: #ffffff;
+}
+.carrito{
+    position: fixed;
+    top:0;
+    right: 0;
+    background-color: aliceblue;
+    width: 400px;
+
+}
+
+.carrito>h2{
+    text-align: center;
+    
+}
